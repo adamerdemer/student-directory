@@ -12,7 +12,8 @@ students = [
   "Joffrey Baratheon",
   "Norman Bates",
 ]
-#and then preint them
+
+#and then print them
 puts "The students of Villains Academy"
 puts "-------------"
 students.each do |student|
